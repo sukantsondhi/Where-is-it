@@ -1,0 +1,12 @@
+{
+  "name": "Where is it",
+  "short_name": "Where is it",
+  "description": "Find anything at home in seconds.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f5f8ff",
+  "theme_color": "#0759f3",
+  "icons": [
+    { "src": "/mark.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
